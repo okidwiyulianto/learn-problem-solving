@@ -51,4 +51,4 @@ Untuk menjaga agar semuanya terorganisir, repositori ini umumnya akan mengikuti 
 │   │   └── 📂hard/   (struktur serupa)
 ```
 
-## Semoga bermanfangat salam, icik icik ehem! 
+## Semoga bermanfangat! Salam icik icik ehem! 
