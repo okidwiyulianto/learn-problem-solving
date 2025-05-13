@@ -36,17 +36,17 @@ Untuk menjaga agar semuanya terorganisir, repositori ini umumnya akan mengikuti 
 ├── 📂learn-problem-solving/                
 │   ├── 📂javascript/     
 │   │   ├── 📂easy/
-|   |   |   |── 📄file.js              
+│   │   │   │── 📄file.js              
 │   │   ├── medium/ (struktur serupa)
 │   │   └── hard/   (struktur serupa)
 │   ├── 📂python/     
 │   │   ├── 📂easy/
-|   |   |   |── 📄file.py              
+│   │   │   │── 📄file.py              
 │   │   ├── 📂medium/ (struktur serupa)
 │   │   └── 📂hard/   (struktur serupa)
 │   ├── 📂rust/     
 │   │   ├── 📂easy/
-|   |   |   |── 📄file.rs              
+│   │   │   │── 📄file.rs              
 │   │   ├── 📂medium/ (struktur serupa)
 │   │   └── 📂hard/   (struktur serupa)
 ```
